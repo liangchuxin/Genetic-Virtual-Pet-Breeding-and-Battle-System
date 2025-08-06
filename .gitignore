@@ -1,0 +1,15 @@
+# C++ compiled files
+*.o
+*.exe
+*.out
+a.out
+
+
+# IDE files
+.vscode/
+*.vcxproj*
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
